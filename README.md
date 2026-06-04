@@ -1,6 +1,6 @@
-# 🥢 Kedai Makan Saya - Korean Food App
+# 🥢 My K-fae - Korean Food App
 
-Welcome to **Kedai Makan Saya**, a modern, responsive Korean food menu web application built using React and styled with CSS Grid and Flexbox. This project demonstrates dynamic component rendering, custom mapping arrays, props parsing, and bulletproof responsive grid layouts.
+Welcome to **My K-fae**, a modern, responsive Korean food menu web application built using React and styled with CSS Grid and Flexbox. This project demonstrates dynamic component rendering, custom mapping arrays, props parsing, and bulletproof responsive grid layouts.
 
 ---
 
